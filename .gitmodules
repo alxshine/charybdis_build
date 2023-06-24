@@ -1,0 +1,6 @@
+[submodule "Scylla"]
+	path = Scylla
+	url = https://github.com/Bastardkb/Scylla.git
+[submodule "Charybdis"]
+	path = Charybdis
+	url = https://github.com/Bastardkb/Charybdis.git
